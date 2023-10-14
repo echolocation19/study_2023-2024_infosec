@@ -2,9 +2,9 @@
 ## Front matter
 lang: ru-RU
 title: Знакомство с SELinux
-author: Кеан Путхеаро
+author: Краснова Диана Владимировна
 institute: Российский Университет Дружбы Народов
-date: 9 октября, 2023, Москва, Россия
+date: 14 октября, 2023, Москва, Россия
 
 ## Formatting
 mainfont: PT Serif
@@ -42,19 +42,19 @@ Apache – это свободное программное обеспечени
 
 ## Запуск HTTP-сервера
 
-![запуск http](image/01.png){ #fig:001 width=70% height=70%}
+![запуск http](image/img1.png){ #fig:001 width=70% height=70%}
 
 ## Создание HTML-файла
 
-![создание html-файла и доступ по http](image/04.png){ #fig:002 width=70% height=70%}
+![создание html-файла и доступ по http](image/img2.png){ #fig:002 width=70% height=70%}
 
 ## Изменение контекста безопасности
 
-![ошибка доступа после изменения контекста](image/05.png){ #fig:003 width=70% height=70%}
+![ошибка доступа после изменения контекста](image/img3.png){ #fig:003 width=70% height=70%}
 
 ## Переключение порта и восстановление контекста безопасности
 
-![доступ по http на 81 порт](image/08.png){ #fig:004 width=70% height=70%}
+![доступ по http на 81 порт](image/img4.png){ #fig:004 width=70% height=70%}
 
 # Выводы
 
